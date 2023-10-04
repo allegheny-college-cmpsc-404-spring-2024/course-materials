@@ -31,6 +31,7 @@
 This course uses a couple free, open access textbooks, findable at the links below. I suggest you bookmark them.
 
 * [Swartz, _A Programmable Web: an Unfinished Work_](https://archive.org/details/AaronSwartzAProgrammableWeb/mode/2up)
+* [Mendez, _The Missing Link: an Introduction to Web Development and Programming](https://milnepublishing.geneseo.edu/themissinglink/part/section-3/)
 
 #### Platforms
 
