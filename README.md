@@ -30,7 +30,7 @@
 
 This course uses a couple free, open access textbooks, findable at the links below. I suggest you bookmark them.
 
-* [Swartz, _A Programmable Web: an Unfinished Work](https://archive.org/details/AaronSwartzAProgrammableWeb/mode/2up)
+* [Swartz, _A Programmable Web: an Unfinished Work_](https://archive.org/details/AaronSwartzAProgrammableWeb/mode/2up)
 
 #### Platforms
 
