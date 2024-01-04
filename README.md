@@ -11,7 +11,7 @@
 > communicate will lead to possibilities so wonderful we can scarcely even imagine
 > them right now.
 >
-> - Aaron Swartz, _The Programmable Web (An Unfinished Work)_
+> Aaron Swartz, _The Programmable Web (An Unfinished Work)_
 
 ### Course information
 
