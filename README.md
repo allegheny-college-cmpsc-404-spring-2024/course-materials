@@ -96,7 +96,7 @@ code of conduct, the general definition of the phases and weights of those phase
 |Module 1: Project planning and design                   |20%    |200 pts.    |
 |Module 2: Building a minimum viable product (MVP)       |20%    |200 pts.    |
 |Module 3: Building a release candidate                  |20%    |200 pts.    |
-|Module 4: Testing and finishing your release candidate  |20%    |200 pts .   |
+|Module 4: Testing and finishing your release candidate  |20%    |200 pts.    |
 |Presentation                                            |20%    |200 pts.    |
 |             |       |            |
 |Total        |       |1000 pts.   |
@@ -128,13 +128,14 @@ start of each Module which they have not occupied in a previous Module:
 Students serving the Tester role develop and implement testing protocols for ensuring that developed code meets the needs of the original client request. This role includes, but is not limited to:
 
 * Guiding the requirements-gathering process
+* Developing and maintaining a testing protocol
 * Developing appropriate testing via best-suited methods (user stories, black box testing, unit testing, et al.)
 * Conducting complete and thorough testing according to developed testing protocol
 * Facilitating communication between the Writers and Developers
 
 ###### Developer
 
-Students in the Developer role are responsible for implementing solutions to either bugs or feature requests documented by the team-chosen project’s community. These students should implement and follow best practices for software engineering developed in `CMPSC203`. This role includes, but is not limited to:
+Students in the Developer role are responsible for implementing solutions to either bugs or feature requests documented by the team during requirements-gathering. This role includes, but is not limited to:
 
 * Developing code to solve an issue or implement a feature 
 * Conducting initial, shallow testing of developed code
@@ -143,11 +144,12 @@ Students in the Developer role are responsible for implementing solutions to eit
 
 ###### Writer
 
-Writers manage external communication between the team and the chosen project. In addition, a student serving as a writer for a given Cycle maintains the overall repository for the duration of a given Cycle. This role includes, but is not limited to:
+Writers manage external communication between the team and the client. In addition, a student serving as a writer for a given Module maintains the overall repository for the duration of a given Module. This role includes, but is not limited to:
 
-* Corresponding with the chosen project’s community via the appropriate issue-tracking system
-* Documenting overall progress for the team–Compiling and submitting the Cycle’s final technical report
-* Creating documentation supporting the release of a “pull request” (this may mean README files or other community-standard documentation)
+* Corresponding with the client using GitHub's issue tracking system
+* Documenting overall progress for the team–Compiling and submitting the Module’s final technical report using a GitHub Wiki
+* Creating, maintaining, and organizing project documentation describing features, APIs, or other relevant information
+* Developing diagrams or other technical aids to communicate technical complexities and/or interactions
 
 Each Module will be concluded by submission of a Final Technical Report (FTR) which will require input from all team members. It will be distributed through and should be turned in via GitHub.
 
@@ -161,7 +163,7 @@ The modular nature of course design contemplates that we need to _keep moving_. 
 
 I expect students to arrive to class prepared. Here, "prepared" means having completed reading assignments, compiled questions, 
 and being ready to engage thoughtfully with course material. In order to assist students' preparedness efforts, I will provide a 
-[schedule](https://chompe.rs/200-schedule) with assignments and accompanying materials or readings.
+[schedule](https://chompe.rs/404-schedule) with assignments and accompanying materials or readings.
 
 ### Allegheny College Statement of Community
 
