@@ -2,8 +2,8 @@
 
 ## Important Resources
 
-* [Office Hours schedule]()
-* [Course Calendar]()
+* [Office Hours schedule](https://chompe.rs/office-hours)
+* [Course Calendar](https://chompe.rs/404-schedule)
 
 ## Syllabus
 
@@ -32,11 +32,13 @@
 
 ### Office hours
 
-|Day(s) of Week            |                    |          |
-|--------------------------|--------------------|----------|
-|Monday                    | 9:00 - 10:00; 1:00 - 2:30 |Alden 112 |
-|Wednesday                 | 1:00 - 4:00 |Alden 112 |
-|Friday                    | 9:00 - 10:00; 1:00 - 2:30 |Alden 112 |
+|Day(s) of Week            |Time           |          |
+|--------------------------|---------------|----------|
+|Monday                    | 12:00 - 14:30 |Alden 112 |
+|Wednesday                 | 13:00 - 16:00 |Alden 112 |
+|Friday                    | 12:00 - 13:30 |Alden 112 |
+
+To reserve a 15-minute slot during the above times, visit my office hours calendar [listed above](#important-resources).
 
 ### Canonical course description
 
@@ -46,18 +48,29 @@ Prerequisite: `CMPSC 203` or `CMPSC 302`.
 
 Distribution Requirements: `QR`, `SP`.
 
-### Learning objectives
+#### Distribution requirements
 
-* Define the structure of the web application "stack" and describe the meaning and implications of implementing a "full stack" application.
-* Explain the layers of the Transmission Control Protocol/Internet Protocol (TCP/IP) and describe their relationship to server-side and client-side web applications.
-* Develop secure, reliable application programmer interfaces (APIs) using the Representational State Transfer (REST) or Simple Object Access Protocol (SOAP) specification(s).
-* Model industry standard server security practices such as, but not limited to, firewall, web server, and database configuration.
-* Select solution-appropriate open-source software to implement a “full stack” web application project using server-side and/or client-side rendering frameworks.
+##### `QR`
+
+Students who successfully complete this requirement will demonstrate an understanding of how to interpret numeric data and/or their graphical or symbolic representations.
+
+##### `SP`
+
+Students who successfully complete this requirement will demonstrate an understanding of the nature, approaches, and domain of scientific inquiry.
+
+### Course learning objectives
+
+* Define the structure of the web application "stack" and describe the meaning and implications of implementing a "full stack" application. [`SP`]
+* Explain the layers of the Transmission Control Protocol/Internet Protocol (TCP/IP) and describe their relationship to server-side and client-side web applications. [`QR`, `SP`]
+* Develop secure, reliable application programmer interfaces (APIs) using the Representational State Transfer (REST) or Simple Object Access Protocol (SOAP) specification(s). [`QR`,`SP`]
+* Model industry standard server security practices such as, but not limited to, firewall, web server, and database configuration. [`SP`]
+* Select solution-appropriate open-source software to implement a “full stack” web application project using server-side and/or client-side rendering frameworks. [`SP`]
 
 ### Required materials
 
 #### Textbook
 
+This course relies primarily on freely-availble documentation from a number of the platforms that we'll be using.
 
 #### Platforms
 
@@ -68,18 +81,32 @@ This course relies on your regular use of:
 
 #### Evaluation
 
+Given that this course interfaces with _real people_ needing _real solutions_, the emphasis of evaluation in this course is less on the technical
+proficiency gained in a given tool and more about two key concepts:
+
+* meeting client expectations
+* working functionally as a team
+
+The parameters defining your evaluation live in our shared [course code of conduct](CODE_OF_CONDUCT.md). These involve both _client-side_ feedback
+and team self-evaluation in addition to instructor appraisal of that feedback. While more on the mechanisms of this system is included in the course
+code of conduct, the general definition of the phases and weights of those phases is defined below:
+
 |Module       |Weight |Point value |
 |-------------|-------|------------|
-|Cycle 1      |20%    |200 pts.    |
-|Cycle 2      |20%    |200 pts.    |
-|Cycle 3      |20%    |200 pts.    |
-|Presentation |20%    |200 pts.    |
+|Module 1: Project planning and design                   |20%    |200 pts.    |
+|Module 2: Building a minimum viable product (MVP)       |20%    |200 pts.    |
+|Module 3: Building a release candidate                  |20%    |200 pts.    |
+|Module 4: Testing and finishing your release candidate  |20%    |200 pts .   |
+|Presentation                                            |20%    |200 pts.    |
 |             |       |            |
 |Total        |       |1000 pts.   |
 
 ##### Class participation
 
-The major vehicle for class structure is your participation. This can mean attending class sessions, but also encompasses attending group meetings or contributing to group communication. You will receive five (5) participation scores through the semester: one (1) for each Module and one (1) for the Final presentation. These scores will be the result of you and your group’s assessment of your participation in the Module and count toward individual Module grades earned.
+The major vehicle for class structure is your participation. This can mean attending class sessions, but also encompasses attending group meetings 
+or contributing to group communication. You will receive five (5) participation scores through the semester: one (1) for each Module and one (1) 
+for the Presentation. These scores will be the result of you and your group’s assessment of your participation in a given module and count 
+toward individual Module grades earned.
 
 ##### Cycles
 
@@ -87,12 +114,14 @@ The semester is composed of four (4) Modules, each running roughly three-and-a-h
 
 |Module     | Dates            |
 |:----------|:-----------------|
-|Planning   | 17 Jan. - 9 Feb. |
-|Prototyping| 12 Feb. - 1 Mar. |
-|Development| 11 Mar. - 5 Apr. |
-|Finishing  | 8 Apr. - 29 Apr. |
+|Project planning and design   | 17 Jan. - 9 Feb. |
+|Building a minimum viable product (MVP) | 12 Feb. - 1 Mar. |
+|Building a release candidate (RC) | 11 Mar. - 5 Apr. |
+|Testing and finishing your release candidate (RC)  | 8 Apr. - 29 Apr. |
 
-"Modules" are defined periods of time during which students (organized into semester-long teams) contribute to their version of the client project while fulfilling the obligations of one (1) of three (3) roles. Each student will occupy any of the following three roles, assuming a new one at the start of each Module which they have not occupied in a previous Module:
+"Modules" are defined periods of time during which students (organized into semester-long teams) contribute to their version of the client project 
+while fulfilling the obligations of one (1) of three (3) roles. Each student will occupy any of the following three roles, assuming a new one at the 
+start of each Module which they have not occupied in a previous Module:
 
 ###### Technical Manager
 
