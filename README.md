@@ -11,7 +11,7 @@
 > communicate will lead to possibilities so wonderful we can scarcely even imagine
 > them right now.
 >
-> Aaron Swartz, _The Programmable Web (An Unfinished Work)_
+> Aaron Swartz, _The Programmable Web: An Unfinished Work_
 
 ### Course information
 
@@ -74,11 +74,17 @@ This course relies primarily on freely-availble documentation from a number of t
 of technologies, these resources may differ dramatically. However, the basic "stack" that we'll review during tutorial sessions:
 
 * [htmx](https://htmx.org/)
-* [nginx](https://nginx.org/en/)
+* [flask](https://palletsprojects.com/p/flask/)
 * [Amazon Web Services](https://aws.amazon.com)
 * [MySQL](https://www.mysql.com/)
 
-Given your technical requirements, 
+However, there are some supporting textbooks that we'll use to inform the work that we're doing. The two books that we will be using parts of are:
+
+* [_Hypermedia Systems_](https://hypermedia.systems/book/contents/)
+* [_A Programmable Web: An Unfinished Work_](https://drive.google.com/file/d/1TUoNB8iN4K9V4DXb0YKITWVwOAVMsNHX/view?usp=sharing)
+
+Readings from either of these books will be provided on the [course calendar](#important-resources). The dates listed indicate when the content
+should have been _read_, not when you should _start_ reading it.
 
 #### Platforms
 
