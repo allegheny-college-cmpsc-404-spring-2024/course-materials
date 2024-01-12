@@ -68,9 +68,17 @@ Students who successfully complete this requirement will demonstrate an understa
 
 ### Required materials
 
-#### Textbook
+#### Course resources
 
-This course relies primarily on freely-availble documentation from a number of the platforms that we'll be using.
+This course relies primarily on freely-availble documentation from a number of the platforms that we'll be using. Depending on your team's choice
+of technologies, these resources may differ dramatically. However, the basic "stack" that we'll review during tutorial sessions:
+
+* [htmx](https://htmx.org/)
+* [nginx](https://nginx.org/en/)
+* [Amazon Web Services](https://aws.amazon.com)
+* [MySQL](https://www.mysql.com/)
+
+Given your technical requirements, 
 
 #### Platforms
 
