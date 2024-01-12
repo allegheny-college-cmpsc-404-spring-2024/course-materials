@@ -93,7 +93,7 @@ This course relies on your regular use of:
 * [GitHub](https://github.com)
 * [Discord](https://discord.com)
 
-#### Evaluation
+### Evaluation
 
 Given that this course interfaces with _real people_ needing _real solutions_, the emphasis of evaluation in this course is less on the technical
 proficiency gained in a given tool and more about two key concepts:
@@ -115,14 +115,14 @@ code of conduct, the general definition of the phases and weights of those phase
 |             |       |            |
 |Total        |       |1000 pts.   |
 
-##### Class participation
+#### Class participation
 
 The major vehicle for class structure is your participation. This can mean attending class sessions, but also encompasses attending group meetings 
 or contributing to group communication. You will receive five (5) participation scores through the semester: one (1) for each Module and one (1) 
 for the Presentation. These scores will be the result of you and your group’s assessment of your participation in a given module and count 
 toward individual Module grades earned.
 
-##### Cycles
+#### Cycles
 
 The semester is composed of four (4) Modules, each running roughly three-and-a-half (3.5) weeks long:
 
@@ -137,7 +137,7 @@ The semester is composed of four (4) Modules, each running roughly three-and-a-h
 while fulfilling the obligations of one (1) of three (3) roles. Each student will occupy any of the following three roles, assuming a new one at the 
 start of each Module which they have not occupied in a previous Module:
 
-###### Technical Manager
+##### Technical Manager
 
 Students serving the Tester role develop and implement testing protocols for ensuring that developed code meets the needs of the original client request. This role includes, but is not limited to:
 
@@ -147,7 +147,7 @@ Students serving the Tester role develop and implement testing protocols for ens
 * Conducting complete and thorough testing according to developed testing protocol
 * Facilitating communication between the Writers and Developers
 
-###### Developer
+##### Developer
 
 Students in the Developer role are responsible for implementing solutions to either bugs or feature requests documented by the team during requirements-gathering. This role includes, but is not limited to:
 
@@ -156,7 +156,7 @@ Students in the Developer role are responsible for implementing solutions to eit
 * Providing adequate inline documentation per the standards of the community to which contribution is being made
 * Collaborating with team members to implement and conduct thorough requirements-gathering
 
-###### Writer
+##### Writer
 
 Writers manage external communication between the team and the client. In addition, a student serving as a writer for a given Module maintains the overall repository for the duration of a given Module. This role includes, but is not limited to:
 
@@ -167,7 +167,7 @@ Writers manage external communication between the team and the client. In additi
 
 Each Module will be concluded by submission of a Final Technical Report (FTR) which will require input from all team members. It will be distributed through and should be turned in via GitHub.
 
-##### Assignment deadlines
+#### Assignment deadlines
 
 This is a project for a client; it's more like life after school than life _during_ school. Like post-academic deadlines, deliverables developed for each Module is due by the end date of the Module. This means that the end dates listed above are _hard deadlines_.
 
