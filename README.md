@@ -1,5 +1,7 @@
 # CMPSC 404: Web Applications
 
+![CMPSC 404 - Web Applications Banner](https://github.com/allegheny-college-cmpsc-404-spring-2024/course-materials/assets/1552764/95b3425a-0d17-4a83-89c4-de8624d7dfd0)
+
 ## Important Resources
 
 * [Office Hours schedule](https://chompe.rs/office-hours)
