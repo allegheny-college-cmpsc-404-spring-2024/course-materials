@@ -55,8 +55,8 @@ We apply the values above to create a working environment that is conducive to p
 areas and terms as our promoted and celebrated behaviors. In your team's branch, define each of the `TODO`s below making sure to define _at least
 three (3)_ items for each category and a maximum of _five (5)_.
 
-Do not stop at 3 items simply because you've reached the "magic minimum number"; these terms both _guide and protect_ your contributions in this
-course.
+These terms both _guide and protect_ your contributions in this course. They will also constitute a _whole course contract_--the instructor will
+use contributions from all teams to develop a single contract that holds our entire class to the same contribution standard.
 
 ### People and accountability
 
@@ -89,4 +89,13 @@ Steps you will take to hold yourself to a standard for discovering information, 
 ### Definining "done"-ness
 
 `TODO: Define constituents of "done"`
- 
+
+## Evaluation
+
+The instructor will develop an evaluation rubric from team contributions and consistent with definitions from the course
+[Syllabus](README.md). Should the instructor discover some lacuna or other gap in contract provisions, they will add evaluative
+metrics supporting these gaps to the course evaluation tool.
+
+This evaluation tool will be presented for an "up-down" vote during class on `22 January 2024`, at which time the contract will
+be finalized. All students agree to both live up to and be evaluated by the contract and evaluative tools as a condition of their
+enrollment in the course.
