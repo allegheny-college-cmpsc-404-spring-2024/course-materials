@@ -110,9 +110,9 @@ code of conduct, the general definition of the phases and weights of those phase
 |Module       |Weight |Point value |
 |-------------|-------|------------|
 |Module 1: Project planning and design                   |20%    |200 pts.    |
-|Module 2: Building a minimum viable product (MVP)       |20%    |200 pts.    |
-|Module 3: Building a release candidate                  |20%    |200 pts.    |
-|Module 4: Testing and finishing your release candidate  |20%    |200 pts.    |
+|Module 2: Building Web Applications                     |20%    |200 pts.    |
+|Module 3: Building a minimum viable product (MVP)       |20%    |200 pts.    |
+|Module 4: Testing and finishing your release candidate (RC)  |20%    |200 pts.    |
 |Presentation                                            |20%    |200 pts.    |
 |             |       |            |
 |Total        |       |1000 pts.   |
@@ -130,9 +130,9 @@ The semester is composed of four (4) Modules, each running roughly three-and-a-h
 
 |Module     | Dates            |
 |:----------|:-----------------|
-|Project planning and design   | 17 Jan. - 9 Feb. |
-|Building a minimum viable product (MVP) | 12 Feb. - 1 Mar. |
-|Building a release candidate (RC) | 11 Mar. - 5 Apr. |
+| Project planning and design  | 17 Jan. - 9 Feb. |
+| Building Web Applications    | 12 Feb. - 1 Mar. |
+| Building a minimum viable product (MVP) | 11 Mar. - 5 Apr. |
 |Testing and finishing your release candidate (RC)  | 8 Apr. - 29 Apr. |
 
 "Modules" are defined periods of time during which students (organized into semester-long teams) contribute to their version of the client project 
@@ -145,11 +145,12 @@ Students serving the Tester role develop and implement testing protocols for ens
 
 * Guiding the requirements-gathering process
 * Developing and maintaining a testing protocol
-* Developing appropriate testing via best-suited methods (user stories, black box testing, unit testing, et al.)
+* Developing appropriate testing via best-suited methods
+* Managing team deadlines and deliverable statuses
 * Conducting complete and thorough testing according to developed testing protocol
 * Facilitating communication between the Writers and Developers
 
-##### Developer
+##### Developer/Designer
 
 Students in the Developer role are responsible for implementing solutions to either bugs or feature requests documented by the team during requirements-gathering. This role includes, but is not limited to:
 
@@ -157,6 +158,7 @@ Students in the Developer role are responsible for implementing solutions to eit
 * Conducting initial, shallow testing of developed code
 * Providing adequate inline documentation per the standards of the community to which contribution is being made
 * Collaborating with team members to implement and conduct thorough requirements-gathering
+* Creating wireframes or other planning assets
 
 ##### Writer
 
