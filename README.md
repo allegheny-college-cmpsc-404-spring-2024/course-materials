@@ -62,11 +62,13 @@ Students who successfully complete this requirement will demonstrate an understa
 
 ### Course learning objectives
 
-* Define the structure of the web application "stack" and describe the meaning and implications of implementing a "full stack" application. [`SP`]
-* Explain the layers of the Transmission Control Protocol/Internet Protocol (TCP/IP) and describe their relationship to server-side and client-side web applications. [`QR`, `SP`]
-* Develop secure, reliable application programmer interfaces (APIs) using the Representational State Transfer (REST) or Simple Object Access Protocol (SOAP) specification(s). [`QR`,`SP`]
-* Model industry standard server security practices such as, but not limited to, firewall, web server, and database configuration. [`SP`]
-* Select solution-appropriate open-source software to implement a “full stack” web application project using server-side and/or client-side rendering frameworks. [`SP`]
+|Objective |Related Distribution Requirement(s) |
+|:---------|:-----------------------------------|
+| Define the structure of the web application "stack" and describe the meaning and implications of implementing a "full stack" application. | `SP` |
+| Explain the layers of the Transmission Control Protocol/Internet Protocol (TCP/IP) and describe their relationship to server-side and client-side web applications. | `QR`, `SP` |
+| Develop secure, reliable application programmer interfaces (APIs) using the Representational State Transfer (REST) or Simple Object Access Protocol (SOAP) specification(s). | `QR`,`SP` |
+| Model industry standard server security practices such as, but not limited to, firewall, web server, and database configuration. | `SP` |
+| Select solution-appropriate open-source software to implement a “full stack” web application project using server-side and/or client-side rendering frameworks. | `SP` |
 
 ### Required materials
 
