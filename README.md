@@ -114,7 +114,6 @@ code of conduct, the general definition of the phases and weights of those phase
 |Module 3: Building a minimum viable product (MVP)       |20%    |200 pts.    |
 |Module 4: Testing and finishing your release candidate (RC)  |20%    |200 pts.    |
 |Presentation                                            |20%    |200 pts.    |
-|             |       |            |
 |Total        |       |1000 pts.   |
 
 #### Class participation
