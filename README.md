@@ -137,12 +137,25 @@ The semester is composed of four (4) Modules, each running roughly three-and-a-h
 |Testing and finishing your release candidate (RC)  | 8 Apr. - 29 Apr. |
 
 "Modules" are defined periods of time during which students (organized into semester-long teams) contribute to their version of the client project 
-while fulfilling the obligations of one (1) of three (3) roles. Each student will occupy any of the following three roles, assuming a new one at the 
-start of each Module which they have not occupied in a previous Module:
+while fulfilling the obligations of one (1) of three (3) roles. Each student will occupy any of the following three roles, assuming a new one at the start of each 
+Module which they have not occupied in a previous Module.
+
+Team members are allowed to be _cross-functional_, meaning that they are able to assist with tasks for which another role is responsible.
+
+Team members _must_:
+
+* assign a Technical Manager
+* assign a Writer
+* assign a Developer/Designer
+
+Team members _may not_:
+
+* assign more than one Technical Manager
+* completely take on responsibility for two roles
 
 ##### Technical Manager
 
-Students serving the Tester role develop and implement testing protocols for ensuring that developed code meets the needs of the original client request. This role includes, but is not limited to:
+Students serving the Technical Manager role develop and implement testing protocols for ensuring that developed code meets the needs of the original client request. This role includes, but is not limited to:
 
 * Guiding the requirements-gathering process
 * Developing and maintaining a testing protocol
@@ -151,9 +164,11 @@ Students serving the Tester role develop and implement testing protocols for ens
 * Conducting complete and thorough testing according to developed testing protocol
 * Facilitating communication between the Writers and Developers
 
+In addition, Technical Managers are responsible for charting the team's progress and maintaining the GitHub Project Board assigned to their team.
+
 ##### Developer/Designer
 
-Students in the Developer role are responsible for implementing solutions to either bugs or feature requests documented by the team during requirements-gathering. This role includes, but is not limited to:
+Students in the Developer/Designer role are responsible for implementing solutions to either bugs or feature requests documented by the team during requirements-gathering. This role includes, but is not limited to:
 
 * Developing code to solve an issue or implement a feature 
 * Conducting initial, shallow testing of developed code
