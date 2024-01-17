@@ -52,9 +52,11 @@ should be open about the struggles they face. They should share feedback and lea
 ## Working agreement
 
 We apply the values above to create a working environment that is conducive to progress and project quality. To do so, we define the following
-areas and terms as our promoted and celebrated behaviors.
+areas and terms as our promoted and celebrated behaviors. In your team's branch, define each of the `TODO`s below making sure to define _at least
+three (3)_ items for each category and a maximum of _five (5)_.
 
-In your team's branch, 
+Do not stop at 3 items simply because you've reached the "magic minimum number"; these terms both _guide and protect_ your contributions in this
+course.
 
 ### People and accountability
 
@@ -73,6 +75,12 @@ Steps you will take to hold yourself to a standard for discovering information, 
 |`TODO`    |`TODO`           |
 
 ### Communication channels 
+
+|Method    |Related Value(s) |
+|----------|-----------------|
+|`TODO`    |`TODO`           |
+
+### Communication habits 
 
 |Method    |Related Value(s) |
 |----------|-----------------|
