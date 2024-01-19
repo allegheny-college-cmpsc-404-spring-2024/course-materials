@@ -66,7 +66,9 @@ Steps you will take to hold yourself to a standard for discovering information, 
 
 |Benchmark |Related Value(s) |
 |----------|-----------------|
-|`TODO`    |`TODO`           |
+|`Communications`    |   Talking to your team member and providing Updates   |
+|`Deadlines`        | Making deadlines for yourself and telling team members |
+|`Deadlines`       | Meeting Deadlines and providing your work on to `Github`|
 
 #### Team accountability
 
