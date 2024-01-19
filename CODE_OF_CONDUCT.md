@@ -66,29 +66,40 @@ Steps you will take to hold yourself to a standard for discovering information, 
 
 |Benchmark |Related Value(s) |
 |----------|-----------------|
-|`TODO`    |`TODO`           |
+| Be honest with yourself about your skills/capabilities |`Focus` |
+| Make sure your own voice and thoughts are heard | `Courage` |
+| Adhere to your role -- stay in your lane | `Focus` |
 
 #### Team accountability
 
 |Benchmark |Related Value(s) |
 |----------|-----------------|
-|`TODO`    |`TODO`           |
+| Attend all agreed upon team meetings | `Commitment` |
+| Meet all agreed upon contribution deadlines | `Commitment` |
+| Make contributions proportional/relative to what the rest of the team is contributing | `Respect` |
+| Ensure other voices and thoughts are heard | `Respect` |
 
 ### Communication channels 
 
 |Method    |Related Value(s) |
 |----------|-----------------|
-|`TODO`    |`TODO`           |
+| Keep all communication focused and succinct | `Focus` |
+| Leverage the appropriate channel (technical conversation in GitHub, non-technical conversation in Discord) | `Focus` |
+| *Only* use team approved channels of communication (no emails) | `Respect` |
 
 ### Communication habits 
 
 |Method    |Related Value(s) |
 |----------|-----------------|
-|`TODO`    |`TODO`           |
+| Communicate honestly and transparently | `Openness` |
+| Stay accountable for expected responses | `Commitment` |
+| Maintain "working hours" when you can consistently be reached | `Commitment` |
 
 ### Definining "done"-ness
 
-`TODO: Define constituents of "done"`
+- Able to be deployed
+- *Some* level of bug-testing & assurance of accuracy
+- Provides some measure of actual utility to the target audience
 
 ## Evaluation
 
