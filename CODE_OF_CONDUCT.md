@@ -66,25 +66,25 @@ Steps you will take to hold yourself to a standard for discovering information, 
 
 |Benchmark |Related Value(s) |
 |----------|-----------------|
-|`TODO`    |`TODO`           |
+|`Maintain a schedule that will allow you to meet your deadlines`    |`Commitment, Focus`           |
 
 #### Team accountability
 
 |Benchmark |Related Value(s) |
 |----------|-----------------|
-|`TODO`    |`TODO`           |
+|`Admit to mistakes and propose solutions`    |`Courage, Openness, Respect`           |
 
 ### Communication channels 
 
 |Method    |Related Value(s) |
 |----------|-----------------|
-|`TODO`    |`TODO`           |
+|`Turning on notifications to stay up to date with team communication`    |`Commitment, Respect`           |
 
 ### Communication habits 
 
 |Method    |Related Value(s) |
 |----------|-----------------|
-|`TODO`    |`TODO`           |
+|`Be respectful in how you give and recieve feedback`    |`Resepect, Openness`           |
 
 ### Definining "done"-ness
 
