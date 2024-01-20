@@ -80,17 +80,24 @@ Steps you will take to hold yourself to a standard for discovering information, 
 
 |Method    |Related Value(s) |
 |----------|-----------------|
-|`TODO`    |`TODO`           |
+|Communicate using the appropriate platforms (i.e., Discord and GitHub).    |Consistency           |
+|Keep the professor and client informed about any issues that arise.    |Openness, Honesty           |
+|Ask for help when stuck.    |Openness           |
 
 ### Communication habits 
 
 |Method    |Related Value(s) |
 |----------|-----------------|
-|`TODO`    |`TODO`           |
+|Attend and participate in class meetings.    |Consistency, Respect, Commitment           |
+|Be respectful of others ideas and work.    |Respect, Openness, Suportive           |
+|Give help when asked.    |Respect, Supportive           |
 
 ### Definining "done"-ness
 
-`TODO: Define constituents of "done"`
+* Conforms to the guidelines/standards set by the client.
+* Is user-friendly (i.e., is not difficult to use).
+* Has been tested and debugged.
+* Keeps important data secure.
 
 ## Evaluation
 
