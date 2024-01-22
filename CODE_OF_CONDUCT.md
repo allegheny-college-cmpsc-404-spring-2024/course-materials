@@ -66,24 +66,36 @@ Steps you will take to hold yourself to a standard for discovering information, 
 
 |Benchmark |Related Value(s) |
 |----------|-----------------|
-|`TODO`    |`TODO`           |
+|Attend class and lab sessions    |`TODO`           |
+|Take accountability if you do something wrong    |`TODO`           |
+|Be kind/friendly    |`TODO`           |
+|Respect peers    |`TODO`           |
 
 #### Team accountability
 
 |Benchmark |Related Value(s) |
 |----------|-----------------|
-|`TODO`    |`TODO`           |
+|Create an environment that rewards open communication   |`TODO`           |
+|Set clear short term goals to be completed by the next lab meeting   |`TODO`           |
+|Have rough deadlines for work to ensure a concrete timeline/workflow  |`TODO`           |
+|Helping people finish their assignments instead of rushing them if you need it done to begin working on yours  |`TODO`           |
+
 ### Communication channels 
 
 |Method    |Related Value(s) |
 |----------|-----------------|
-|`TODO`    |`TODO`           |
+|Use the Github issue tracker religiously    |`TODO`           |
+|Make sure that the discord channel is easy to access for everyone    |`TODO`           |
+|Provide regular progress checks in Discord to make sure eveyrone is on the same page |`TODO`   |
 
 ### Communication habits 
 
 |Method    |Related Value(s) |
 |----------|-----------------|
-|`TODO`    |`TODO`           |
+|Check Discord once a day    |`TODO`           |
+|Let everyone know before you change big parts of the code   |`TODO`           |
+|Send messages if you do have to miss a class session    |`TODO`           |
+
 
 ### Definining "done"-ness
 
