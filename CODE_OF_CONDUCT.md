@@ -66,36 +66,13 @@ Steps you will take to hold yourself to a standard for discovering information, 
 
 |Benchmark |Related Value(s) |
 |----------|-----------------|
-|Continuous Learning and Improvement:
-Regularly attend relevant workshops or training sessions to enhance skills.
-Seek feedback from peers and superiors for continuous improvement.
-Stay updated with industry trends and best practices.
-Proactive Problem Solving:
-Identify potential challenges early on and develop proactive solutions.
-Collaborate with team members to address issues before they escalate.
-Take initiative in proposing improvements to current processes.
-Client-Centric Approach:
-Prioritize client needs and expectations in all tasks and decisions.
-Regularly gather feedback from clients to ensure their satisfaction.
-Tailor communication and deliverables to align with client objectives.  |`TODO`           |
+|`TODO`    |`TODO`           |
 
 #### Team accountability
 
 |Benchmark |Related Value(s) |
 |----------|-----------------|
-|`Shared Responsibility:
-Foster a collaborative environment where team members share responsibilities.
-Establish clear roles and expectations within the team.
-Encourage a culture of mutual support and assistance.
-Timely Task Completion:
-Set realistic deadlines for tasks and adhere to them.
-Communicate proactively if facing challenges that may affect timelines.
-Ensure that team members are aware of and meet project milestones.
-Quality Assurance:
-Implement a robust quality assurance process for all deliverables.
-Conduct thorough reviews of team members' work before finalizing.
-Strive for excellence in every aspect of the project, from concept to delivery.`    |`TODO`           |
-
+|`TODO`    |`TODO`           |
 ### Communication channels 
 
 |Method    |Related Value(s) |
