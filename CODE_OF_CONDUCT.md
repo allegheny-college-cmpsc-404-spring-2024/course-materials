@@ -66,15 +66,18 @@ Steps you will take to hold yourself to a standard for discovering information, 
 
 |Benchmark |Related Value(s) |
 |----------|-----------------|
-|`Communications`    |   Talking to your team member and providing Updates   |
-|`Deadlines`        | Making deadlines for yourself and telling team members |
-|`Deadlines`       | Meeting Deadlines and providing your work on to `Github`|
+|Talking to your team member and providing Updates  |Communications|
+|Making deadlines for yourself and telling team members       | Deadlines, Communication|
+|Meeting Deadlines and providing your work on to `Github`       | Deadlines|
 
 #### Team accountability
 
 |Benchmark |Related Value(s) |
 |----------|-----------------|
-|`TODO`    |`TODO`           |
+|Working on the project   | Work Ethic, Participation |
+|Division of the tasks and workload| Communication|
+|Uplifting Team members to continue the good work | Team Spirit, Communication|
+
 
 ### Communication channels 
 
@@ -96,6 +99,7 @@ Steps you will take to hold yourself to a standard for discovering information, 
 
 * Conforms to the guidelines/standards set by the client.
 * Is user-friendly (i.e., is not difficult to use).
+* Is documented (i.e., readme,md file)
 * Has been tested and debugged.
 * Keeps important data secure.
 
