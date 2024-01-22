@@ -78,7 +78,7 @@ Steps you will take to hold yourself to a standard for discovering information, 
 
 |Method    |Related Value(s) |
 |----------|-----------------|
-|`Discord (Respond to communications within 24 hours on business days)`    |`Commitment, Focus, Respect`           |
+|`Discord (Respond to communications within 24 hours during business week)`    |`Commitment, Focus, Respect`           |
 
 ### Communication habits 
 
