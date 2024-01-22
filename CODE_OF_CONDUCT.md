@@ -99,7 +99,7 @@ Steps you will take to hold yourself to a standard for discovering information, 
 
 ### Definining "done"-ness
 
-`TODO: Define constituents of "done"`
+`The point where a feature is written and tested but it also needs to reflect the intended use. Also setting a goal for the team to when the function is fully functional and marking it as complete.`
 
 ## Evaluation
 
