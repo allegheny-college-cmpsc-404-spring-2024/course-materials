@@ -66,35 +66,35 @@ Steps you will take to hold yourself to a standard for discovering information, 
 
 |Benchmark |Related Value(s) |
 |----------|-----------------|
-|Attend class and lab sessions    |`TODO`           |
-|Take accountability if you do something wrong    |`TODO`           |
-|Be kind/friendly    |`TODO`           |
-|Respect peers    |`TODO`           |
+|Attend class and lab sessions    |Commitment, Focus           |
+|Take accountability if you do something wrong    |Courage           |
+|Be kind/friendly    |Respect           |
+|Respect peers    |Respect           |
 
 #### Team accountability
 
 |Benchmark |Related Value(s) |
 |----------|-----------------|
-|Create an environment that rewards open communication   |`TODO`           |
-|Set clear short term goals to be completed by the next lab meeting   |`TODO`           |
-|Have rough deadlines for work to ensure a concrete timeline/workflow  |`TODO`           |
-|Helping people finish their assignments instead of rushing them if you need it done to begin working on yours  |`TODO`           |
+|Create an environment that rewards open communication   |Openness           |
+|Set clear short term goals to be completed by the next lab meeting   |Focus          |
+|Have rough deadlines for work to ensure a concrete timeline/workflow  |Focus           |
+|Help people finish their assignments instead of rushing them if you need it done to begin working on yours  |Respect, Openness           |
 
 ### Communication channels 
 
 |Method    |Related Value(s) |
 |----------|-----------------|
-|Use the Github issue tracker religiously    |`TODO`           |
-|Make sure that the discord channel is easy to access for everyone    |`TODO`           |
-|Provide regular progress checks in Discord to make sure eveyrone is on the same page |`TODO`   |
+|Use the Github issue tracker religiously    |Commitment, Focus           |
+|Make sure that the discord channel is easy to access for everyone    |Openness           |
+|Provide regular progress checks in Discord to make sure eveyrone is on the same page |Openness   |
 
 ### Communication habits 
 
 |Method    |Related Value(s) |
 |----------|-----------------|
-|Check Discord once a day    |`TODO`           |
-|Let everyone know before you change big parts of the code   |`TODO`           |
-|Send messages if you do have to miss a class session    |`TODO`           |
+|Check Discord once a day    |Commitment           |
+|Let everyone know before you change big parts of the code   |Openness           |
+|Send messages if you do have to miss a class session    |Courage, Openness           |
 
 
 ### Definining "done"-ness
