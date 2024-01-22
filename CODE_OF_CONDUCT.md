@@ -99,7 +99,7 @@ Steps you will take to hold yourself to a standard for discovering information, 
 
 ### Definining "done"-ness
 
-`TODO: Define constituents of "done"`
+A project can be considered done when it succesfully produces a result that we are all happy with.
 
 ## Evaluation
 
