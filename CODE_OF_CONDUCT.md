@@ -75,7 +75,7 @@ Stay updated with industry trends and best practices.|`TODO`           |
 |Take initiative in proposing improvements to current processes.|`TODO`           |
 |Prioritize client needs and expectations in all tasks and decisions.|`TODO`           |
 |Regularly gather feedback from clients to ensure their satisfaction.|`TODO`           |
-Tailor communication and deliverables to align with client objectives.  |`TODO`           |
+|Tailor communication and deliverables to align with client objectives.  |`TODO`           |
 
 #### Team accountability
 
