@@ -66,6 +66,9 @@ Steps you will take to hold yourself to a standard for discovering information, 
 
 |Benchmark |Related Value(s) |
 |----------|-----------------|
+|`Come to meetings/class`|` Coming to class unless you are unable to and if you are unable to let team members know`|
+|`Do assigned work`| `Completing and doing your assigned role within the group`|
+|`Be kind`| `Be nice and willing to work and help others`|
 |`Maintain a schedule that will allow you to meet your deadlines`    |`Commitment, Focus`           |
 |Attend class and lab sessions    |Commitment, Focus           |
 |Take accountability if you do something wrong    |Courage           |
@@ -89,6 +92,9 @@ Stay updated with industry trends and best practices.|`TODO`           |
 
 |Benchmark |Related Value(s) |
 |----------|-----------------|
+|`Set deadlines`|` Set deadlines for when something should be done so we have a schedule to follow`|
+|`Help others`|` Everyone is at a different level of understanding so helping when you can is important for teamwork`|
+|`Ask for help from team members`|` Asking for help from others to help progress through the project instead of being stuck on a bug or issue`|
 |`Admit to mistakes and propose solutions`    |`Courage, Openness, Respect`           |
 |Create an environment that rewards open communication   |Openness           |
 |Set clear short term goals to be completed by the next lab meeting   |Focus          |
@@ -112,6 +118,9 @@ Stay updated with industry trends and best practices.|`TODO`           |
 
 |Method    |Related Value(s) |
 |----------|-----------------|
+|`Communicate remotely` |` Communicate effectively on issues and professionally work within the discord channel frequently`|
+|`Use in-person meetings` |` Use in-person meetings for communication for larger issues that team members need to be present for`|
+|`More than one liners` |` When communicating use more than one-word answers and explain why you are doing a task or explain what you think on an issue`|
 |`Turning on notifications to stay up to date with team communication`    |`Commitment, Respect`           |
 |Use the Github issue tracker religiously    |Commitment, Focus           |
 |Make sure that the discord channel is easy to access for everyone    |Openness           |
@@ -125,6 +134,9 @@ Stay updated with industry trends and best practices.|`TODO`           |
 
 |Method    |Related Value(s) |
 |----------|-----------------|
+|`Give constructive feedback`|` Provide feedback to help another team member with their issue and give suggestions on how to do it`|
+|`Communicate your progress`|` Give updates on the part of the project you are working on`|
+|`Don't be afraid of mistakes`|` If you break something or make a mistake communicate with the team they might be able to help you fix it `|
 |`Be respectful in how you give and recieve feedback`    |`Resepect, Openness`           |
 |Check Discord once a day    |Commitment           |
 |Let everyone know before you change big parts of the code   |Openness           |
@@ -132,9 +144,11 @@ Stay updated with industry trends and best practices.|`TODO`           |
 |Attend and participate in class meetings.    |Consistency, Respect, Commitment           |
 |Be respectful of others ideas and work.    |Respect, Openness, Suportive           |
 |Give help when asked.    |Respect, Supportive           |
-|`Communicate issues early`    |`Openness, Focus, Respect`           |
+|`Communicate issues early`    |`Openness, Focus, Respect`   |
 
 ### Definining "done"-ness
+
+`The point where a feature is written and tested but it also needs to reflect the intended use. Also setting a goal for the team to when the function is fully functional and marking it as complete.`
 
 * Conforms to the guidelines/standards set by the client.
 * Is user-friendly (i.e., is not difficult to use).
