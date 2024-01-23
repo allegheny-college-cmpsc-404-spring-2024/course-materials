@@ -66,30 +66,23 @@ Steps you will take to hold yourself to a standard for discovering information, 
 
 |Benchmark |Related Value(s) |
 |----------|-----------------|
-| Be honest with yourself about your skills/capabilities |`Focus` |
-| Make sure your own voice and thoughts are heard | `Courage` |
-| Adhere to your role -- stay in your lane | `Focus` |
-|`Come to meetings/class`|` Coming to class unless you are unable to and if you are unable to let team members know`|
-|`Do assigned work`| `Completing and doing your assigned role within the group`|
-|`Be kind`| `Be nice and willing to work and help others`|
-|`Maintain a schedule that will allow you to meet your deadlines`    |`Commitment, Focus`           |
-|Attend class and lab sessions    |Commitment, Focus           |
-|Take accountability if you do something wrong    |Courage           |
-|Be kind/friendly    |Respect           |
-|Respect peers    |Respect           |
-|Talking to your team member and providing Updates  |Communications|
-|Making deadlines for yourself and telling team members       | Deadlines, Communication|
-|Meeting Deadlines and providing your work on to `Github`       | Deadlines|
-|`Attend all meetings unless otherwise excused`    |`Commitment, Focus, Respect`|
-|Regularly attend relevant workshops or training sessions to enhance skills.|`TODO`           |
-|Seek feedback from peers and superiors for continuous improvement.`TODO`           |
-Stay updated with industry trends and best practices.|`TODO`           |
-|Identify potential challenges early on and develop proactive solutions.|`TODO`           |
-|Collaborate with team members to address issues before they escalate.|`TODO`           |
-|Take initiative in proposing improvements to current processes.|`TODO`           |
-|Prioritize client needs and expectations in all tasks and decisions.|`TODO`           |
-|Regularly gather feedback from clients to ensure their satisfaction.|`TODO`           |
-|Tailor communication and deliverables to align with client objectives.  |`TODO`           |
+| Be honest with yourself about your skills/capabilities; admit when you're at the limit of your knowledge and seek assitance/resources |`Focus` |
+| Make sure your voice and thoughts are heard; default to a personal policy of raising issues soon and often | `Courage` |
+| Trust team members to perform their roles and tasks with full ability; unless requested, focus on your role's tasks | `Focus` |
+| Default to a position of kindness<sup>†</sup> | `Courage`, `Respect |
+| Maintain a clear, coordinated, and transparent schedule determined and enforced by the team, revised where approriate |`Commitment, Focus`           |
+| Attend class, lab, and meeting sessions outside of either of these occasions  | `Commitment`, `Focus`, `Respect` |
+| Own mistakes, taking accountability for both making and repairing whatever deficiencies result   |`Courage` |
+|Seek feedback from peers and superiors for continuous improvement on a regular, potentially scheduled, basis. | `Commitment` |
+
+<sup>`†`</sup>_Kindness_ is not a subset of _niceness_. See this discussion of "kindness" from the [Ohio State Univeristy Fisher College](https://fisher.osu.edu/blogs/leadreadtoday/be-a-kind-leader-rather-a-nice-leader):
+
+>  Niceness is a social expectation wielded to help maintain order in society, to avoid conflict. It’s the polite thing to do...[N]iceness is a velvet smile applied to preserve the status quo, kindness is both a behavior and a cognitive act; it is a conscious choice to act, speak, or behave in a certain way.
+
+Here, "kindness" is not merely agreeing during a difference of opinion or process hoping that conflict goes away. Often, being kind means
+holding folks to a high standard even if they miss it or make a mistake. Your team members can meet the moment and expectations if given the
+opportunity to do so. Teams who understand technical and practical issues (including the forces of life outside the project) but still ask
+for high-quality work and high responsibility perform much better than those who do not face these moments.
 
 #### Team accountability
 
@@ -139,6 +132,7 @@ Stay updated with industry trends and best practices.|`TODO`           |
 |Keep the professor and client informed about any issues that arise.    |Openness, Honesty           |
 |Ask for help when stuck.    |Openness           |
 |`Discord (Respond to communications within 24 hours during business week)`    |`Commitment, Focus, Respect`           
+
 ### Communication habits 
 
 |Method    |Related Value(s) |
@@ -160,20 +154,12 @@ Stay updated with industry trends and best practices.|`TODO`           |
 
 ### Definining "done"-ness
 
-- Able to be deployed
-- *Some* level of bug-testing & assurance of accuracy
-- Provides some measure of actual utility to the target audience
+A unit of work defined as "done" indicates that it:
 
-`The point where a feature is written and tested but it also needs to reflect the intended use. Also setting a goal for the team to when the function is fully functional and marking it as complete.`
-
-* Conforms to the guidelines/standards set by the client.
-* Is user-friendly (i.e., is not difficult to use).
-* Is documented (i.e., readme,md file)
-* Has been tested and debugged.
-* Keeps important data secure.
-
-`An assignment is considered done once it meets all of the requirements agreed upon by the group that constitutes the task as done`
-A project can be considered done when it succesfully produces a result that we are all happy with.
+- Has undergone _some_ level of bug-testing and assurance of accuracy
+- Provides a way to concretely assess its relative success or completeness
+- Conforms to the guidelines/standards in the teams requirements documents
+- Is documented (i.e., a `README` or appropriate inline commenting)
 
 ## Evaluation
 
