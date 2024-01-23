@@ -69,6 +69,24 @@ Steps you will take to hold yourself to a standard for discovering information, 
 |`Come to meetings/class`|` Coming to class unless you are unable to and if you are unable to let team members know`|
 |`Do assigned work`| `Completing and doing your assigned role within the group`|
 |`Be kind`| `Be nice and willing to work and help others`|
+|`Maintain a schedule that will allow you to meet your deadlines`    |`Commitment, Focus`           |
+|Attend class and lab sessions    |Commitment, Focus           |
+|Take accountability if you do something wrong    |Courage           |
+|Be kind/friendly    |Respect           |
+|Respect peers    |Respect           |
+|Talking to your team member and providing Updates  |Communications|
+|Making deadlines for yourself and telling team members       | Deadlines, Communication|
+|Meeting Deadlines and providing your work on to `Github`       | Deadlines|
+|`Attend all meetings unless otherwise excused`    |`Commitment, Focus, Respect`|
+|Regularly attend relevant workshops or training sessions to enhance skills.|`TODO`           |
+|Seek feedback from peers and superiors for continuous improvement.`TODO`           |
+Stay updated with industry trends and best practices.|`TODO`           |
+|Identify potential challenges early on and develop proactive solutions.|`TODO`           |
+|Collaborate with team members to address issues before they escalate.|`TODO`           |
+|Take initiative in proposing improvements to current processes.|`TODO`           |
+|Prioritize client needs and expectations in all tasks and decisions.|`TODO`           |
+|Regularly gather feedback from clients to ensure their satisfaction.|`TODO`           |
+|Tailor communication and deliverables to align with client objectives.  |`TODO`           |
 
 #### Team accountability
 
@@ -77,6 +95,24 @@ Steps you will take to hold yourself to a standard for discovering information, 
 |`Set deadlines`|` Set deadlines for when something should be done so we have a schedule to follow`|
 |`Help others`|` Everyone is at a different level of understanding so helping when you can is important for teamwork`|
 |`Ask for help from team members`|` Asking for help from others to help progress through the project instead of being stuck on a bug or issue`|
+|`Admit to mistakes and propose solutions`    |`Courage, Openness, Respect`           |
+|Create an environment that rewards open communication   |Openness           |
+|Set clear short term goals to be completed by the next lab meeting   |Focus          |
+|Have rough deadlines for work to ensure a concrete timeline/workflow  |Focus           |
+|Help people finish their assignments instead of rushing them if you need it done to begin working on yours  |Respect, Openness           |
+|Working on the project   | Work Ethic, Participation |
+|Division of the tasks and workload| Communication|
+|Uplifting Team members to continue the good work | Team Spirit, Communication|
+|`Set reasonable goals and deadlines`    |`Openness, Respect`           |
+|Foster a collaborative environment where team members share responsibilities. |`TODO`           |
+|Establish clear roles and expectations within the team. |`TODO`           |
+|Encourage a culture of mutual support and assistance. |`TODO`           |
+|Set realistic deadlines for tasks and adhere to them. |`TODO`           |
+|Communicate proactively if facing challenges that may affect timelines. |`TODO`           |
+|Ensure that team members are aware of and meet project milestones. |`TODO`           |
+|Implement a robust quality assurance process for all deliverables. |`TODO`           |
+|Conduct thorough reviews of team members' work before finalizing. |`TODO`           |
+|Strive for excellence in every aspect of the project, from concept to delivery.`    |`TODO`           |
 
 ### Communication channels 
 
@@ -85,6 +121,14 @@ Steps you will take to hold yourself to a standard for discovering information, 
 |`Communicate remotely` |` Communicate effectively on issues and professionally work within the discord channel frequently`|
 |`Use in-person meetings` |` Use in-person meetings for communication for larger issues that team members need to be present for`|
 |`More than one liners` |` When communicating use more than one-word answers and explain why you are doing a task or explain what you think on an issue`|
+|`Turning on notifications to stay up to date with team communication`    |`Commitment, Respect`           |
+|Use the Github issue tracker religiously    |Commitment, Focus           |
+|Make sure that the discord channel is easy to access for everyone    |Openness           |
+|Provide regular progress checks in Discord to make sure eveyrone is on the same page |Openness   |
+|Communicate using the appropriate platforms (i.e., Discord and GitHub).    |Consistency           |
+|Keep the professor and client informed about any issues that arise.    |Openness, Honesty           |
+|Ask for help when stuck.    |Openness           |
+|`Discord (Respond to communications within 24 hours during business week)`    |`Commitment, Focus, Respect`           
 
 ### Communication habits 
 
@@ -93,13 +137,27 @@ Steps you will take to hold yourself to a standard for discovering information, 
 |`Give constructive feedback`|` Provide feedback to help another team member with their issue and give suggestions on how to do it`|
 |`Communicate your progress`|` Give updates on the part of the project you are working on`|
 |`Don't be afraid of mistakes`|` If you break something or make a mistake communicate with the team they might be able to help you fix it `|
-
-
-
+|`Be respectful in how you give and recieve feedback`    |`Resepect, Openness`           |
+|Check Discord once a day    |Commitment           |
+|Let everyone know before you change big parts of the code   |Openness           |
+|Send messages if you do have to miss a class session    |Courage, Openness           |
+|Attend and participate in class meetings.    |Consistency, Respect, Commitment           |
+|Be respectful of others ideas and work.    |Respect, Openness, Suportive           |
+|Give help when asked.    |Respect, Supportive           |
+|`Communicate issues early`    |`Openness, Focus, Respect`   |
 
 ### Definining "done"-ness
 
 `The point where a feature is written and tested but it also needs to reflect the intended use. Also setting a goal for the team to when the function is fully functional and marking it as complete.`
+
+* Conforms to the guidelines/standards set by the client.
+* Is user-friendly (i.e., is not difficult to use).
+* Is documented (i.e., readme,md file)
+* Has been tested and debugged.
+* Keeps important data secure.
+
+`An assignment is considered done once it meets all of the requirements agreed upon by the group that constitutes the task as done`
+A project can be considered done when it succesfully produces a result that we are all happy with.
 
 ## Evaluation
 
