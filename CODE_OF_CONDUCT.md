@@ -66,6 +66,9 @@ Steps you will take to hold yourself to a standard for discovering information, 
 
 |Benchmark |Related Value(s) |
 |----------|-----------------|
+| Be honest with yourself about your skills/capabilities |`Focus` |
+| Make sure your own voice and thoughts are heard | `Courage` |
+| Adhere to your role -- stay in your lane | `Focus` |
 |`Come to meetings/class`|` Coming to class unless you are unable to and if you are unable to let team members know`|
 |`Do assigned work`| `Completing and doing your assigned role within the group`|
 |`Be kind`| `Be nice and willing to work and help others`|
@@ -92,6 +95,10 @@ Stay updated with industry trends and best practices.|`TODO`           |
 
 |Benchmark |Related Value(s) |
 |----------|-----------------|
+| Attend all agreed upon team meetings | `Commitment` |
+| Meet all agreed upon contribution deadlines | `Commitment` |
+| Make contributions proportional/relative to what the rest of the team is contributing | `Respect` |
+| Ensure other voices and thoughts are heard | `Respect` |
 |`Set deadlines`|` Set deadlines for when something should be done so we have a schedule to follow`|
 |`Help others`|` Everyone is at a different level of understanding so helping when you can is important for teamwork`|
 |`Ask for help from team members`|` Asking for help from others to help progress through the project instead of being stuck on a bug or issue`|
@@ -118,6 +125,9 @@ Stay updated with industry trends and best practices.|`TODO`           |
 
 |Method    |Related Value(s) |
 |----------|-----------------|
+| Keep all communication focused and succinct | `Focus` |
+| Leverage the appropriate channel (technical conversation in GitHub, non-technical conversation in Discord) | `Focus` |
+| *Only* use team approved channels of communication (no emails) | `Respect` |
 |`Communicate remotely` |` Communicate effectively on issues and professionally work within the discord channel frequently`|
 |`Use in-person meetings` |` Use in-person meetings for communication for larger issues that team members need to be present for`|
 |`More than one liners` |` When communicating use more than one-word answers and explain why you are doing a task or explain what you think on an issue`|
@@ -129,11 +139,13 @@ Stay updated with industry trends and best practices.|`TODO`           |
 |Keep the professor and client informed about any issues that arise.    |Openness, Honesty           |
 |Ask for help when stuck.    |Openness           |
 |`Discord (Respond to communications within 24 hours during business week)`    |`Commitment, Focus, Respect`           
-
 ### Communication habits 
 
 |Method    |Related Value(s) |
 |----------|-----------------|
+| Communicate honestly and transparently | `Openness` |
+| Stay accountable for expected responses | `Commitment` |
+| Maintain "working hours" when you can consistently be reached | `Commitment` |
 |`Give constructive feedback`|` Provide feedback to help another team member with their issue and give suggestions on how to do it`|
 |`Communicate your progress`|` Give updates on the part of the project you are working on`|
 |`Don't be afraid of mistakes`|` If you break something or make a mistake communicate with the team they might be able to help you fix it `|
@@ -147,6 +159,10 @@ Stay updated with industry trends and best practices.|`TODO`           |
 |`Communicate issues early`    |`Openness, Focus, Respect`   |
 
 ### Definining "done"-ness
+
+- Able to be deployed
+- *Some* level of bug-testing & assurance of accuracy
+- Provides some measure of actual utility to the target audience
 
 `The point where a feature is written and tested but it also needs to reflect the intended use. Also setting a goal for the team to when the function is fully functional and marking it as complete.`
 
