@@ -67,12 +67,30 @@ Steps you will take to hold yourself to a standard for discovering information, 
 |Benchmark |Related Value(s) |
 |----------|-----------------|
 |`Attend all meetings unless otherwise excused`    |`Commitment, Focus, Respect`|
+|Regularly attend relevant workshops or training sessions to enhance skills.|`TODO`           |
+|Seek feedback from peers and superiors for continuous improvement.`TODO`           |
+Stay updated with industry trends and best practices.|`TODO`           |
+|Identify potential challenges early on and develop proactive solutions.|`TODO`           |
+|Collaborate with team members to address issues before they escalate.|`TODO`           |
+|Take initiative in proposing improvements to current processes.|`TODO`           |
+|Prioritize client needs and expectations in all tasks and decisions.|`TODO`           |
+|Regularly gather feedback from clients to ensure their satisfaction.|`TODO`           |
+Tailor communication and deliverables to align with client objectives.  |`TODO`           |
 
 #### Team accountability
 
 |Benchmark |Related Value(s) |
 |----------|-----------------|
 |`Set reasonable goals and deadlines`    |`Openness, Respect`           |
+|Foster a collaborative environment where team members share responsibilities. |`TODO`           |
+|Establish clear roles and expectations within the team. |`TODO`           |
+|Encourage a culture of mutual support and assistance. |`TODO`           |
+|Set realistic deadlines for tasks and adhere to them. |`TODO`           |
+|Communicate proactively if facing challenges that may affect timelines. |`TODO`           |
+|Ensure that team members are aware of and meet project milestones. |`TODO`           |
+|Implement a robust quality assurance process for all deliverables. |`TODO`           |
+|Conduct thorough reviews of team members' work before finalizing. |`TODO`           |
+|Strive for excellence in every aspect of the project, from concept to delivery.`    |`TODO`           |
 
 ### Communication channels 
 
