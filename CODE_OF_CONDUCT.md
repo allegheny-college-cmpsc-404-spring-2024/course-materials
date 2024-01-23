@@ -66,6 +66,10 @@ Steps you will take to hold yourself to a standard for discovering information, 
 
 |Benchmark |Related Value(s) |
 |----------|-----------------|
+|Attend class and lab sessions    |Commitment, Focus           |
+|Take accountability if you do something wrong    |Courage           |
+|Be kind/friendly    |Respect           |
+|Respect peers    |Respect           |
 |Talking to your team member and providing Updates  |Communications|
 |Making deadlines for yourself and telling team members       | Deadlines, Communication|
 |Meeting Deadlines and providing your work on to `Github`       | Deadlines|
@@ -84,6 +88,10 @@ Stay updated with industry trends and best practices.|`TODO`           |
 
 |Benchmark |Related Value(s) |
 |----------|-----------------|
+|Create an environment that rewards open communication   |Openness           |
+|Set clear short term goals to be completed by the next lab meeting   |Focus          |
+|Have rough deadlines for work to ensure a concrete timeline/workflow  |Focus           |
+|Help people finish their assignments instead of rushing them if you need it done to begin working on yours  |Respect, Openness           |
 |Working on the project   | Work Ethic, Participation |
 |Division of the tasks and workload| Communication|
 |Uplifting Team members to continue the good work | Team Spirit, Communication|
@@ -102,15 +110,21 @@ Stay updated with industry trends and best practices.|`TODO`           |
 
 |Method    |Related Value(s) |
 |----------|-----------------|
+|Use the Github issue tracker religiously    |Commitment, Focus           |
+|Make sure that the discord channel is easy to access for everyone    |Openness           |
+|Provide regular progress checks in Discord to make sure eveyrone is on the same page |Openness   |
 |Communicate using the appropriate platforms (i.e., Discord and GitHub).    |Consistency           |
 |Keep the professor and client informed about any issues that arise.    |Openness, Honesty           |
 |Ask for help when stuck.    |Openness           |
-|`Discord (Respond to communications within 24 hours during business week)`    |`Commitment, Focus, Respect`           |
+|`Discord (Respond to communications within 24 hours during business week)`    |`Commitment, Focus, Respect`           
 
 ### Communication habits 
 
 |Method    |Related Value(s) |
 |----------|-----------------|
+|Check Discord once a day    |Commitment           |
+|Let everyone know before you change big parts of the code   |Openness           |
+|Send messages if you do have to miss a class session    |Courage, Openness           |
 |Attend and participate in class meetings.    |Consistency, Respect, Commitment           |
 |Be respectful of others ideas and work.    |Respect, Openness, Suportive           |
 |Give help when asked.    |Respect, Supportive           |
@@ -125,6 +139,7 @@ Stay updated with industry trends and best practices.|`TODO`           |
 * Keeps important data secure.
 * 
 `An assignment is considered done once it meets all of the requirements agreed upon by the group that constitutes the task as done`
+A project can be considered done when it succesfully produces a result that we are all happy with.
 
 ## Evaluation
 
