@@ -66,6 +66,7 @@ Steps you will take to hold yourself to a standard for discovering information, 
 
 |Benchmark |Related Value(s) |
 |----------|-----------------|
+|`Maintain a schedule that will allow you to meet your deadlines`    |`Commitment, Focus`           |
 |Attend class and lab sessions    |Commitment, Focus           |
 |Take accountability if you do something wrong    |Courage           |
 |Be kind/friendly    |Respect           |
@@ -88,6 +89,7 @@ Stay updated with industry trends and best practices.|`TODO`           |
 
 |Benchmark |Related Value(s) |
 |----------|-----------------|
+|`Admit to mistakes and propose solutions`    |`Courage, Openness, Respect`           |
 |Create an environment that rewards open communication   |Openness           |
 |Set clear short term goals to be completed by the next lab meeting   |Focus          |
 |Have rough deadlines for work to ensure a concrete timeline/workflow  |Focus           |
@@ -110,6 +112,7 @@ Stay updated with industry trends and best practices.|`TODO`           |
 
 |Method    |Related Value(s) |
 |----------|-----------------|
+|`Turning on notifications to stay up to date with team communication`    |`Commitment, Respect`           |
 |Use the Github issue tracker religiously    |Commitment, Focus           |
 |Make sure that the discord channel is easy to access for everyone    |Openness           |
 |Provide regular progress checks in Discord to make sure eveyrone is on the same page |Openness   |
@@ -122,6 +125,7 @@ Stay updated with industry trends and best practices.|`TODO`           |
 
 |Method    |Related Value(s) |
 |----------|-----------------|
+|`Be respectful in how you give and recieve feedback`    |`Resepect, Openness`           |
 |Check Discord once a day    |Commitment           |
 |Let everyone know before you change big parts of the code   |Openness           |
 |Send messages if you do have to miss a class session    |Courage, Openness           |
@@ -137,7 +141,7 @@ Stay updated with industry trends and best practices.|`TODO`           |
 * Is documented (i.e., readme,md file)
 * Has been tested and debugged.
 * Keeps important data secure.
-* 
+
 `An assignment is considered done once it meets all of the requirements agreed upon by the group that constitutes the task as done`
 A project can be considered done when it succesfully produces a result that we are all happy with.
 
