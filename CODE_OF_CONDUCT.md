@@ -94,6 +94,7 @@ for high-quality work and high responsibility perform much better than those who
 |Take team member concerns seriously, allowing any team member to surface issues early and often | `Courage`, `Openness` |
 |For recurring tasks (e.g, testing) implement regular processes such as, but not limited to code review |`Focus`, `Commitment` |
 |Require meeting agendas before meetings can take place and adhere to agendas set |`Focus`, `Commitment` |
+|Escalate issues quickly when challenges appear too great to handle | `Respect`, `Commitment` |
 
 ### Communication channels 
 
@@ -101,6 +102,7 @@ for high-quality work and high responsibility perform much better than those who
 |----------|-----------------|
 | Only use team approved channels of communication, unless the client requests it or situation demands it | `Respect` |
 | Use available project tools (i.e., GitHub) to visualize work, set priorities, and address issues |`Openness` |
+| When using project tools, take care to use them in ways consistent with established team norms or practices | `Respect` |
 
 
 ### Communication habits 
@@ -110,8 +112,9 @@ for high-quality work and high responsibility perform much better than those who
 | When documenting issues or providing updates provide exhaustive commentary or documentation to support your work | `Openness`, `Respect` |
 | Use standards such as [conventional commits](https://www.conventionalcommits.org/en/v1.0.0/) for clarity and value | `Respect` |
 | Offer availability generously, but respect boundaries for working hours, responding to messages | `Openness`, `Respect` |
+| Communicate using team norms such as providing reasonable response times, substantive discussion | `Respect` |
+| Prefer verbosity over concision; encourage collaborative creation of information | `Openness`, `Respect` |
 
-|
 ### Definining "done"-ness
 
 A unit of work defined as "done" indicates that it:
