@@ -66,51 +66,63 @@ Steps you will take to hold yourself to a standard for discovering information, 
 
 |Benchmark |Related Value(s) |
 |----------|-----------------|
-|Continuous Learning and Improvement:
-Regularly attend relevant workshops or training sessions to enhance skills.
-Seek feedback from peers and superiors for continuous improvement.
-Stay updated with industry trends and best practices.
-Proactive Problem Solving:
-Identify potential challenges early on and develop proactive solutions.
-Collaborate with team members to address issues before they escalate.
-Take initiative in proposing improvements to current processes.
-Client-Centric Approach:
-Prioritize client needs and expectations in all tasks and decisions.
-Regularly gather feedback from clients to ensure their satisfaction.
-Tailor communication and deliverables to align with client objectives.  |`TODO`           |
+| Be honest with yourself about your skills/capabilities; admit when you're at the limit of your knowledge and seek assitance/resources |`Focus` |
+| Make sure your voice and thoughts are heard; default to a personal policy of raising issues soon and often | `Courage` |
+| Trust team members to perform their roles and tasks with full ability; unless requested, focus on your role's tasks | `Focus` |
+| Default to a position of kindness<sup>†</sup> | `Courage`, `Respect` |
+| Maintain a clear, coordinated, and transparent schedule determined and enforced by the team, revised where approriate |`Commitment, Focus`           |
+| Attend class, lab, and meeting sessions outside of either of these occasions  | `Commitment`, `Focus`, `Respect` |
+| Own mistakes, taking accountability for both making and repairing whatever deficiencies result   |`Courage` |
+|Seek feedback from peers and superiors for continuous improvement on a regular, potentially scheduled, basis | `Commitment` |
+
+<sup>`†`</sup>_Kindness_ is not a subset of _niceness_. See this discussion of "kindness" from the [Ohio State Univeristy Fisher College](https://fisher.osu.edu/blogs/leadreadtoday/be-a-kind-leader-rather-a-nice-leader):
+
+>  Niceness is a social expectation wielded to help maintain order in society, to avoid conflict. It’s the polite thing to do...[N]iceness is a velvet smile applied to preserve the status quo, kindness is both a behavior and a cognitive act; it is a conscious choice to act, speak, or behave in a certain way.
+
+Here, "kindness" is not merely agreeing during a difference of opinion or process hoping that conflict goes away. Often, being kind means
+holding folks to a high standard even if they miss it or make a mistake. Your team members can meet the moment and expectations if given the
+opportunity to do so. Teams who understand technical and practical issues (including the forces of life outside the project) but still ask
+for high-quality work and high responsibility perform much better than those who do not face these moments.
 
 #### Team accountability
 
 |Benchmark |Related Value(s) |
 |----------|-----------------|
-|`Shared Responsibility:
-Foster a collaborative environment where team members share responsibilities.
-Establish clear roles and expectations within the team.
-Encourage a culture of mutual support and assistance.
-Timely Task Completion:
-Set realistic deadlines for tasks and adhere to them.
-Communicate proactively if facing challenges that may affect timelines.
-Ensure that team members are aware of and meet project milestones.
-Quality Assurance:
-Implement a robust quality assurance process for all deliverables.
-Conduct thorough reviews of team members' work before finalizing.
-Strive for excellence in every aspect of the project, from concept to delivery.`    |`TODO`           |
+|Foster a collaborative, cross-functional environment where team members share responsibilities |`Commitment`, `Respect` |
+|Attend meetings with work, progress, or challenges ready to share | `Commitment`, `Focus` |
+|When presented with a challenge or error to address, promote solutions over blame |`Commitment`, `Courage` |
+|Take team member concerns seriously, allowing any team member to surface issues early and often | `Courage`, `Openness` |
+|For recurring tasks (e.g, testing) implement regular processes such as, but not limited to code review |`Focus`, `Commitment` |
+|Require meeting agendas before meetings can take place and adhere to agendas set |`Focus`, `Commitment` |
+|Escalate issues quickly when challenges appear too great to handle | `Respect`, `Commitment` |
 
 ### Communication channels 
 
 |Method    |Related Value(s) |
 |----------|-----------------|
-|`TODO`    |`TODO`           |
+| Only use team approved channels of communication, unless the client requests it or situation demands it | `Respect` |
+| Use available project tools (i.e., GitHub) to visualize work, set priorities, and address issues |`Openness` |
+| When using project tools, take care to use them in ways consistent with established team norms or practices | `Respect` |
+
 
 ### Communication habits 
 
 |Method    |Related Value(s) |
 |----------|-----------------|
-|`TODO`    |`TODO`           |
+| When documenting issues or providing updates provide exhaustive commentary or documentation to support your work | `Openness`, `Respect` |
+| Use standards such as [conventional commits](https://www.conventionalcommits.org/en/v1.0.0/) for clarity and value | `Respect` |
+| Offer availability generously, but respect boundaries for working hours, responding to messages | `Openness`, `Respect` |
+| Communicate using team norms such as providing reasonable response times, substantive discussion | `Respect` |
+| Prefer verbosity over concision; encourage collaborative creation of information | `Openness`, `Respect` |
 
 ### Definining "done"-ness
 
-`TODO: Define constituents of "done"`
+A unit of work defined as "done" indicates that it:
+
+- Has undergone _some_ level of bug-testing and assurance of accuracy
+- Provides a way to concretely assess its relative success or completeness
+- Conforms to the guidelines/standards in the teams requirements documents
+- Is documented (i.e., a `README` or appropriate inline commenting)
 
 ## Evaluation
 
