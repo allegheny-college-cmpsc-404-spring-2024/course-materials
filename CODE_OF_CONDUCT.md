@@ -69,11 +69,11 @@ Steps you will take to hold yourself to a standard for discovering information, 
 | Be honest with yourself about your skills/capabilities; admit when you're at the limit of your knowledge and seek assitance/resources |`Focus` |
 | Make sure your voice and thoughts are heard; default to a personal policy of raising issues soon and often | `Courage` |
 | Trust team members to perform their roles and tasks with full ability; unless requested, focus on your role's tasks | `Focus` |
-| Default to a position of kindness<sup>†</sup> | `Courage`, `Respect |
+| Default to a position of kindness<sup>†</sup> | `Courage`, `Respect` |
 | Maintain a clear, coordinated, and transparent schedule determined and enforced by the team, revised where approriate |`Commitment, Focus`           |
 | Attend class, lab, and meeting sessions outside of either of these occasions  | `Commitment`, `Focus`, `Respect` |
 | Own mistakes, taking accountability for both making and repairing whatever deficiencies result   |`Courage` |
-|Seek feedback from peers and superiors for continuous improvement on a regular, potentially scheduled, basis. | `Commitment` |
+|Seek feedback from peers and superiors for continuous improvement on a regular, potentially scheduled, basis | `Commitment` |
 
 <sup>`†`</sup>_Kindness_ is not a subset of _niceness_. See this discussion of "kindness" from the [Ohio State Univeristy Fisher College](https://fisher.osu.edu/blogs/leadreadtoday/be-a-kind-leader-rather-a-nice-leader):
 
@@ -88,70 +88,30 @@ for high-quality work and high responsibility perform much better than those who
 
 |Benchmark |Related Value(s) |
 |----------|-----------------|
-| Attend all agreed upon team meetings | `Commitment` |
-| Meet all agreed upon contribution deadlines | `Commitment` |
-| Make contributions proportional/relative to what the rest of the team is contributing | `Respect` |
-| Ensure other voices and thoughts are heard | `Respect` |
-|`Set deadlines`|` Set deadlines for when something should be done so we have a schedule to follow`|
-|`Help others`|` Everyone is at a different level of understanding so helping when you can is important for teamwork`|
-|`Ask for help from team members`|` Asking for help from others to help progress through the project instead of being stuck on a bug or issue`|
-|`Admit to mistakes and propose solutions`    |`Courage, Openness, Respect`           |
-|Create an environment that rewards open communication   |Openness           |
-|Set clear short term goals to be completed by the next lab meeting   |Focus          |
-|Have rough deadlines for work to ensure a concrete timeline/workflow  |Focus           |
-|Help people finish their assignments instead of rushing them if you need it done to begin working on yours  |Respect, Openness           |
-|Working on the project   | Work Ethic, Participation |
-|Division of the tasks and workload| Communication|
-|Uplifting Team members to continue the good work | Team Spirit, Communication|
-|`Set reasonable goals and deadlines`    |`Openness, Respect`           |
-|Foster a collaborative environment where team members share responsibilities. |`TODO`           |
-|Establish clear roles and expectations within the team. |`TODO`           |
-|Encourage a culture of mutual support and assistance. |`TODO`           |
-|Set realistic deadlines for tasks and adhere to them. |`TODO`           |
-|Communicate proactively if facing challenges that may affect timelines. |`TODO`           |
-|Ensure that team members are aware of and meet project milestones. |`TODO`           |
-|Implement a robust quality assurance process for all deliverables. |`TODO`           |
-|Conduct thorough reviews of team members' work before finalizing. |`TODO`           |
-|Strive for excellence in every aspect of the project, from concept to delivery.`    |`TODO`           |
+|Foster a collaborative, cross-functional environment where team members share responsibilities |`Commitment`, `Respect` |
+|Attend meetings with work, progress, or challenges ready to share | `Commitment`, `Focus` |
+|When presented with a challenge or error to address, promote solutions over blame |`Commitment`, `Courage` |
+|Take team member concerns seriously, allowing any team member to surface issues early and often | `Courage`, `Openness` |
+|For recurring tasks (e.g, testing) implement regular processes such as, but not limited to code review |`Focus`, `Commitment` |
+|Require meeting agendas before meetings can take place and adhere to agendas set |`Focus`, `Commitment` |
 
 ### Communication channels 
 
 |Method    |Related Value(s) |
 |----------|-----------------|
-| Keep all communication focused and succinct | `Focus` |
-| Leverage the appropriate channel (technical conversation in GitHub, non-technical conversation in Discord) | `Focus` |
-| *Only* use team approved channels of communication (no emails) | `Respect` |
-|`Communicate remotely` |` Communicate effectively on issues and professionally work within the discord channel frequently`|
-|`Use in-person meetings` |` Use in-person meetings for communication for larger issues that team members need to be present for`|
-|`More than one liners` |` When communicating use more than one-word answers and explain why you are doing a task or explain what you think on an issue`|
-|`Turning on notifications to stay up to date with team communication`    |`Commitment, Respect`           |
-|Use the Github issue tracker religiously    |Commitment, Focus           |
-|Make sure that the discord channel is easy to access for everyone    |Openness           |
-|Provide regular progress checks in Discord to make sure eveyrone is on the same page |Openness   |
-|Communicate using the appropriate platforms (i.e., Discord and GitHub).    |Consistency           |
-|Keep the professor and client informed about any issues that arise.    |Openness, Honesty           |
-|Ask for help when stuck.    |Openness           |
-|`Discord (Respond to communications within 24 hours during business week)`    |`Commitment, Focus, Respect`           
+| Only use team approved channels of communication, unless the client requests it or situation demands it | `Respect` |
+| Use available project tools (i.e., GitHub) to visualize work, set priorities, and address issues |`Openness` |
+
 
 ### Communication habits 
 
 |Method    |Related Value(s) |
 |----------|-----------------|
-| Communicate honestly and transparently | `Openness` |
-| Stay accountable for expected responses | `Commitment` |
-| Maintain "working hours" when you can consistently be reached | `Commitment` |
-|`Give constructive feedback`|` Provide feedback to help another team member with their issue and give suggestions on how to do it`|
-|`Communicate your progress`|` Give updates on the part of the project you are working on`|
-|`Don't be afraid of mistakes`|` If you break something or make a mistake communicate with the team they might be able to help you fix it `|
-|`Be respectful in how you give and recieve feedback`    |`Resepect, Openness`           |
-|Check Discord once a day    |Commitment           |
-|Let everyone know before you change big parts of the code   |Openness           |
-|Send messages if you do have to miss a class session    |Courage, Openness           |
-|Attend and participate in class meetings.    |Consistency, Respect, Commitment           |
-|Be respectful of others ideas and work.    |Respect, Openness, Suportive           |
-|Give help when asked.    |Respect, Supportive           |
-|`Communicate issues early`    |`Openness, Focus, Respect`   |
+| When documenting issues or providing updates provide exhaustive commentary or documentation to support your work | `Openness`, `Respect` |
+| Use standards such as [conventional commits](https://www.conventionalcommits.org/en/v1.0.0/) for clarity and value | `Respect` |
+| Offer availability generously, but respect boundaries for working hours, responding to messages | `Openness`, `Respect` |
 
+|
 ### Definining "done"-ness
 
 A unit of work defined as "done" indicates that it:
